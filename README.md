@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=500&color=00FFC3&vCenter=true&width=600&height=45&lines=Hey%2C+World!+I'm+Sudarshan.;I+build%2C+break%2C+and+innovate!+💥">
 </h2>
 
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00FFC3,100:FF4B91&height=140&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontAlignY=35&animation=twinkling" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC3,100:FF4B91&height=140&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontAlignY=35&animation=twinkling" />
 </div>
 
 ---
@@ -37,6 +37,6 @@
 
 ---
 
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FF4B91,100:00FFC3&height=120&section=footer"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B91,100:00FFC3&height=120&section=footer"/>
 </div>
