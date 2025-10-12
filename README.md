@@ -1,6 +1,7 @@
 <h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=500&color=00FFC3&vCenter=true&width=600&height=45&lines=Hey%2C+World!+I'm+Sudarshan.;I+build%2C+break%2C+and+innovate!+💥">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=500&color=00FFC3&vCenter=true&width=800&height=45&lines=Hey%2C+World!;Better+to+bleed+trying+than+to+rot+wishing+you+had.">
 </h2>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFC3,100:FF4B91&height=140&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontAlignY=35&animation=twinkling" />
