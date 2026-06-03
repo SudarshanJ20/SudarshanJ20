@@ -1,10 +1,3 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║  SUDARSHAN J. · github.com/sudarshanj20                       ║
-     ║  "NEURAL HUD" command-center profile                         ║
-     ║  Custom SVG modules → /assets   ·   diagrams → native Mermaid ║
-     ║  Notes in HTML comments are for you; delete before shipping. ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-
 <a id="top"></a>
 
 <!-- ════════════════════ HERO ════════════════════ -->
@@ -24,7 +17,6 @@
 
 <br/><br/>
 
-<!-- NAV -->
 <kbd> <a href="#system">◤ SYSTEM</a> </kbd>　<kbd> <a href="#command">◤ COMMAND CENTER</a> </kbd>　<kbd> <a href="#stack">◤ STACK</a> </kbd>　<kbd> <a href="#galaxy">◤ GALAXY</a> </kbd>　<kbd> <a href="#telemetry">◤ TELEMETRY</a> </kbd>　<kbd> <a href="#uplink">◤ UPLINK</a> </kbd>
 
 </div>
@@ -194,15 +186,6 @@ flowchart LR
 
 </details>
 
-<br/>
-
-<div align="center">
-<!-- 📌 ASSET TIP: record a 10-15s screen capture of each project, export as GIF,
-     drop into /assets and embed below for an instant "launch page" feel:
-     <img src="assets/ask-paul-graham-demo.gif" width="80%"/>  -->
-<sub>🎬 <i>Demo reels load here — drop project GIFs into <code>/assets</code> and embed them.</i></sub>
-</div>
-
 <img src="assets/divider.svg" width="100%"/>
 
 <!-- ════════════════════ 04 · LIVE TELEMETRY ════════════════════ -->
@@ -218,7 +201,6 @@ flowchart LR
 
 <img src="https://github-profile-trophy.vercel.app/?username=sudarshanj20&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&title_color=00e5ff&text_color=c8d3e0" alt="trophies"/>
 
-<!-- Contribution activity heat-line -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshanj20&bg_color=0a0f1d&color=00e5ff&line=ff2d95&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/>
 
 <!-- Contribution snake: this image 404s until the workflow at .github/workflows/snake.yml
