@@ -102,21 +102,20 @@ graph TD
 
 ```mermaid
 %%{init:{'theme':'base','themeVariables':{'primaryColor':'#0a0f1d','primaryTextColor':'#cfe9ff','primaryBorderColor':'#ff2d95','lineColor':'#00e5ff','fontFamily':'Fira Code, monospace'}}}%%
-mindmap
-  root((SUDARSHAN J.))
-    AI SYSTEMS DIVISION
-      Ask Paul Graham
-        RAG agent
-        LlamaIndex
-        Next.js + FastAPI
-      PlateAI
-        Computer Vision
-        YOLO11 + EasyOCR
-        Indian plate formats
-    FULL-STACK CORE
-      Next.js 15
-      FastAPI
-      TypeScript
+graph TD
+    R(((SUDARSHAN J.))) --> AID[AI SYSTEMS DIVISION]
+    R --> FSC[FULL-STACK CORE]
+    AID --> APG[Ask Paul Graham]
+    AID --> PA[PlateAI]
+    APG --> APG1[RAG agent]
+    APG --> APG2[LlamaIndex]
+    APG --> APG3[Next.js + FastAPI]
+    PA --> PA1[Computer Vision]
+    PA --> PA2[YOLO11 + EasyOCR]
+    PA --> PA3[Indian plate formats]
+    FSC --> FS1[Next.js 15]
+    FSC --> FS2[FastAPI]
+    FSC --> FS3[TypeScript]
 ```
 
 <br/>
