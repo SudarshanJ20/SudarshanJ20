@@ -1,7 +1,3 @@
-# .github/workflows/snake.yml
-# One-time setup for the contribution snake in your README.
-# Place this file at:  .github/workflows/snake.yml  in the sudarshanj20/sudarshanj20 repo.
-# It auto-runs every 12h and on manual trigger, committing the snake to an "output" branch.
 name: Generate Snake Animation
 
 on:
