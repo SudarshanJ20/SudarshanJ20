@@ -49,12 +49,11 @@
 <a id="command"></a>
 ### ◢ 01 · /COMMAND_CENTER
 
-<table border="0">
-  <tr>
-    <td width="52%" valign="top">
-      <img src="assets/about.svg" alt="live terminal" width="100%"/>
-    </td>
-    <td width="48%" valign="top">
+<div align="center">
+
+<img src="assets/about.svg" alt="live terminal" width="80%"/>
+
+</div>
 
 ```mermaid
 %%{init:{'theme':'base','themeVariables':{'primaryColor':'#0a0f1d','primaryTextColor':'#cfe9ff','primaryBorderColor':'#00e5ff','lineColor':'#ff2d95','fontFamily':'Fira Code, monospace'}}}%%
@@ -67,22 +66,17 @@ flowchart TD
     C --> Z[/ design → deploy /]
 ```
 
-  </td>
-  </tr>
-</table>
-
 <img src="assets/divider.svg" width="100%"/>
 
 <!-- ════════════════════ 02 · TECH UNIVERSE ════════════════════ -->
 <a id="stack"></a>
 ### ◢ 02 · /TECH_UNIVERSE
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/stack.svg" alt="tech stack modules" width="100%"/>
-    </td>
-    <td width="50%" valign="top">
+<div align="center">
+
+<img src="assets/stack.svg" alt="tech stack modules" width="80%"/>
+
+</div>
 
 ```mermaid
 %%{init:{'theme':'base','themeVariables':{'primaryColor':'#0a0f1d','primaryTextColor':'#cfe9ff','primaryBorderColor':'#00e5ff','lineColor':'#2a3f63','fontFamily':'Fira Code, monospace'}}}%%
@@ -97,10 +91,6 @@ graph TD
     AI -.deploy.-> INF[(Docker · Vercel)]
     Web -.deploy.-> INF
 ```
-
-  </td>
-  </tr>
-</table>
 
 <img src="assets/divider.svg" width="100%"/>
 
