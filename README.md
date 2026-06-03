@@ -221,8 +221,9 @@ flowchart LR
 <!-- Contribution activity heat-line -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshanj20&bg_color=0a0f1d&color=00e5ff&line=ff2d95&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/>
 
-<!-- 🐍 SNAKE: needs a one-time GitHub Action (snake.yml is included alongside this README).
-     After it runs once, this image renders your contributions being "eaten". -->
+<!-- Contribution snake: this image 404s until the workflow at .github/workflows/snake.yml
+     completes its first successful run and pushes snake-dark.svg to the `output` branch.
+     Trigger it manually from the Actions tab the first time. -->
 <img src="https://raw.githubusercontent.com/sudarshanj20/sudarshanj20/output/snake-dark.svg" width="100%" alt="contribution snake"/>
 
 </div>
